@@ -1,0 +1,50 @@
+/* Train.css */
+.name{
+  text-align: center;
+  color: #00ae00;
+  font-family:'Courier New', Courier, monospace;
+  }
+  .train-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    justify-content: center;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    overflow: hidden;
+    background-color: #f9f9f9;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  
+  .train-item {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  .train-name {
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .train-details {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  .book-seat-button {
+    background-color: #dd7973;
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .book-seat-button:hover {
+    background-color: rgb(139, 241, 111);
+  }
+  

@@ -1,0 +1,46 @@
+.landing-page {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .header {
+    margin-bottom: 30px;
+  }
+  
+  .header h1 {
+    margin-top: 5px;
+    font-size: 36px;
+    color: #5783db;
+  }
+  
+  .header p {
+    font-size: 18px;
+    color: #666;
+  }
+  
+  .about-us {
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+  
+  .about-us h2 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .about-us p {
+    
+    font-size: 16px;
+    color: #333;
+    line-height: 1.6;
+  }
+  
+  .footer {
+    margin-top: 180px;
+    /* background-color: #f9f9f9; */
+    /* padding: 20px; */
+    color: #666;
+  }
+  
